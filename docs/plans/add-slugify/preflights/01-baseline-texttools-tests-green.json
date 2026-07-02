@@ -1,0 +1,1 @@
+{ "description": "Baseline (preflight): the EXISTING TextExtensions (Reverse/WordCount) tests pass on the starting code before the DAG runs - never build on red (#181)" }

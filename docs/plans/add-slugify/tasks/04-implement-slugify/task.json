@@ -1,0 +1,6 @@
+{
+  "description": "Implement TextExtensions.Slugify by consuming Normalizer.Normalize (fill logic over the stub) and layering the slug-specific hyphenation so the Slugify tests pass",
+  "stableId": "slugpl",
+  "dependsOn": ["03-author-slugify-tests"],
+  "writeScope": ["src/TextTools/TextExtensions.cs"]
+}

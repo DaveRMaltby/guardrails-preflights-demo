@@ -1,0 +1,9 @@
+{
+  "description": "Author failing xUnit tests + a minimal Slugify stub on TextExtensions for the slug contract (lowercase, accent-stripped, non-alphanumeric runs -> single hyphen, trimmed hyphens)",
+  "stableId": "slugts",
+  "dependsOn": ["02-implement-normalizer"],
+  "writeScope": [
+    "tests/TextTools.Tests/SlugifyTests.cs",
+    "src/TextTools/TextExtensions.cs"
+  ]
+}

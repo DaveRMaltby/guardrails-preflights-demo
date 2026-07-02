@@ -1,0 +1,9 @@
+{
+  "description": "Author failing xUnit tests + a minimal Normalizer stub for Normalizer.Normalize (lowercase, strip diacritics, collapse internal whitespace, trim ends)",
+  "stableId": "n0rm1t",
+  "dependsOn": [],
+  "writeScope": [
+    "tests/TextTools.Tests/NormalizerTests.cs",
+    "src/TextTools/Normalizer.cs"
+  ]
+}

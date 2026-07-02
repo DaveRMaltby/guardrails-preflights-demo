@@ -1,0 +1,1 @@
+{ "description": "JIT dependency-delivery preflight: Normalizer.Normalize (from producer task 02) is present in the Slugify consumer's inherited segment before its attempt loop (four-folder task-level preflight)" }

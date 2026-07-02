@@ -1,0 +1,33 @@
+{
+  "Version": 1,
+  "Files": {
+    "guardrails.json": "274475f980a2e9de6a152a60887ee1340d7e49cf28cd480d46518166d04009e6",
+    "guardrails/01-union-invariant.json": "fbe08e2afdec14ca8bc1eb367dd6dcc66ad9f9ba0a7ebcc5133c294ea8dad19a",
+    "guardrails/01-union-invariant.ps1": "82883912a8e741bc9a3312d5f2b50a77321116006050eb1267120d310a7fd4c5",
+    "guardrails/02-full-suite.json": "65f8786c008a2da71bf8e8f85446a97224e5e2bcf52debaa0ad9768e43d14c70",
+    "guardrails/02-full-suite.ps1": "8b8c062fc0a5db07d46cf1762304f30d2073c6bcb79e8cddac17854ddec92db5",
+    "preflights/01-baseline-texttools-tests-green.json": "d23294cddc7126fd0842e78163267915957e36dcf2e364787a1e702754906bc9",
+    "preflights/01-baseline-texttools-tests-green.ps1": "e7f09118ef2bdba7061e55e7e835933fbf957f8a764576ad2e37c3af098a0395",
+    "preflights/02-feature-absent-at-start.json": "018e2944f747871babed3e9db612db20654cdab39d9253d9cc6b0548c0163920",
+    "preflights/02-feature-absent-at-start.ps1": "4b7457e955fcdc771e4a2dc6ef6c55246c685badee9aa466d44872e9d87c9570",
+    "tasks/01-author-normalizer-tests/action.prompt.md": "6c8f83e37306ce6dae142705530f84ca7d2c5e86c67aeac6ab048c9ad2e4bec2",
+    "tasks/01-author-normalizer-tests/guardrails/01-build-passes.ps1": "c6f0474fcfbfbbde5ef0577f645b4b6b4d33f5aefed1c5a794fc8527d6498518",
+    "tasks/01-author-normalizer-tests/guardrails/02-tests-fail-on-stubs.ps1": "f445d344287f246b8050f87906c05f641952d793858ca29935245208fbc3a08c",
+    "tasks/01-author-normalizer-tests/task.json": "ce64fdf21db6216512df7d610380a3581ade4333376dcab70007c91d23b9d612",
+    "tasks/02-implement-normalizer/action.prompt.md": "08545f241a8544c7164d8645e05aa0163a516b4e35f41a7413bff9f6bceeebdc",
+    "tasks/02-implement-normalizer/guardrails/01-build.ps1": "4373bb64a74742cf9e6d85fe99d3c601484866a3db38098dee26f23eeac742aa",
+    "tasks/02-implement-normalizer/guardrails/02-normalizer-tests-pass.ps1": "93864f4e903314cc8e40d0c8ab9d9953e9f46682c28d3972858c31ec4845c772",
+    "tasks/02-implement-normalizer/task.json": "50c961c4e3e931d5910bb33f234289193e4bdcc1a62ef653d1c7658252825201",
+    "tasks/03-author-slugify-tests/action.prompt.md": "8f5f9ec9c23f16ad0c874326de9679f68535a63e14011f9a62e89d0333a13d6a",
+    "tasks/03-author-slugify-tests/guardrails/01-build-passes.ps1": "e5a8f5c7e27fca62ea1373b59a8989dae3f1e5addcba2ae91d53ad8927e668b7",
+    "tasks/03-author-slugify-tests/guardrails/02-tests-fail-on-stubs.ps1": "09fca983053f0f84bd7348e939db95e1dcf5f6be5719881211902df7e26c9af8",
+    "tasks/03-author-slugify-tests/task.json": "e9d93669a1997af00843ca6aa8fe0c14d978729ed4cd0457941d0a36a5e6a6f3",
+    "tasks/04-implement-slugify/action.prompt.md": "3d089d22defd3a89cadc1eb52e744288156e0f0e7e4af7301824caf76aac8a34",
+    "tasks/04-implement-slugify/guardrails/01-build.ps1": "c74d57f12b8fe2bec4660fedd5b7952d332183ffd2c61759d955caf1d4fec559",
+    "tasks/04-implement-slugify/guardrails/02-slugify-consumes-normalizer.ps1": "3108177ab676a52de2283cd1efa5f648a7ca81706a7a77778f35a93dde490ae5",
+    "tasks/04-implement-slugify/guardrails/03-slugify-tests-pass.ps1": "978b56d2747d585bd5d56dd8c5d271e8382e550d072d60f26a579142e637ae39",
+    "tasks/04-implement-slugify/preflights/01-normalizer-normalize-present.json": "8470908576d3eff51ef5483d771beae2eea5e49c0cdd2d4458c6c98567afde80",
+    "tasks/04-implement-slugify/preflights/01-normalizer-normalize-present.ps1": "c7b0b879f7edcf9b2bd2fededcdf681a584141c9c3926e5f007e4a26c7df63c3",
+    "tasks/04-implement-slugify/task.json": "6e21ca0592f09a555bdc57d28bde473d2285e4f9363d22fd4e7565ce0f7b2d5c"
+  }
+}

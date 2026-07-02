@@ -1,0 +1,6 @@
+{
+  "description": "Implement Normalizer.Normalize in src/TextTools/Normalizer.cs (fill real logic over the stub) so the Normalizer tests pass",
+  "stableId": "n0rmpl",
+  "dependsOn": ["01-author-normalizer-tests"],
+  "writeScope": ["src/TextTools/Normalizer.cs"]
+}

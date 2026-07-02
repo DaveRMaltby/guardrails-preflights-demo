@@ -1,0 +1,4 @@
+{
+  "description": "Union invariant (terminal gate, GR2028): merged files are non-empty + conflict-marker-free; IF Slugify landed it consumes Normalizer.Normalize; no duplicate Slugify/Normalizer definitions from the AI-merge - union-safe/conditional (#125/#165/#175)",
+  "scope": "integration"
+}

@@ -1,0 +1,1 @@
+{ "description": "Negative baseline (preflight): Slugify and Normalizer are genuinely ABSENT in src at the start - the plan-level assert-absent form of the tests-fail-on-current-code archetype (#181)" }
